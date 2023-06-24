@@ -1,0 +1,31 @@
+Team	League	Home_Attendance	Away_Attendance
+Anaheim	American	27806	27703
+Baltimore	American	42880	27658
+Boston	American	30201	30165
+Chicago	American	17616	28821
+Cleveland	American	42845	30311
+Detroit	American	25017	27041
+Kansas City	American	19247	27566
+Minnesota	American	14849	28068
+New York	American	40649	33574
+Oakland	American	17711	28100
+Seattle	American	35998	30588
+Tampa Bay	American	21599	27591
+Texas	American	34681	26002
+Toronto	American	26709	26998
+Arizona	National	36852	30203
+Atlanta	National	40554	31027
+Chicago	National	36074	34574
+Cincinnati	National	25136	28392
+Colorado	National	42487	27990
+Florida	National	17556	26602
+Houston	National	33407	26033
+Los Angeles	National	38303	32363
+Milwaukee	National	21817	25139
+Montreal	National	9546	28518
+New York	National	34505	31712
+Philadelphia	National	22816	27767
+Pittsburgh	National	20475	27471
+San Diego	National	31154	30491
+San Francisco	National	25655	30381
+St. Louis	National	40963	35700

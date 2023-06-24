@@ -1,0 +1,31 @@
+Team	W	L	R	RA	
+Anaheim	82	80	864	869	
+Arizona	85	77	792	754	
+Atlanta	95	67	810	714	
+Baltimore	74	88	794	913	
+Boston	85	77	792	745	
+Chicago_AL	95	67	978	839	
+Chicago_NL	65	97	764	904	
+Cincinnati	85	77	825	765	
+Cleveland	90	72	950	816	
+Colorado	82	80	968	897	
+Detroit	79	83	823	827	
+Florida	79	82	731	797	
+Houston	72	90	938	944	
+Kansas City	77	85	879	930	
+Los Angeles	86	76	798	729	
+Milwaukee	73	89	740	826
+Minnesota	69	93	748	880
+Montreal	67	95	738	902
+New York_AL	87	74	871	814
+New York_NL	94	68	807	738
+Oakland	91	70	947	813
+Philadelphia	65	97	708	830
+Pittsburgh	69	93	793	888
+San Diego	76	86	752	815
+San Francisco	97	65	925	747
+Seattle	91	71	907	780
+St. Louis	95	67	887	771
+Tampa Bay	69	92	733	842
+Texas	71	91	848	974
+Toronto	83	79	861	908

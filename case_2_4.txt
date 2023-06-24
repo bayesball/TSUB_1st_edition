@@ -1,0 +1,30 @@
+TEAM	LEAGUE	HOME ATTENDANCE
+Anaheim 	American	24702
+Baltimore	American	38661
+Boston	American	32413
+Chicago	American	22077
+Cleveland	American	39694
+Detroit	American	24087
+Kansas City	American	18967
+Minnesota	American	22286
+New York	American	40811
+Oakland	American	26336
+Seattle	American	43300
+Tampa Bay	American	16029
+Texas	American	34950
+Toronto	American	23647
+Arizona	National	33783
+Atlanta	National	34858
+Chicago	National	35183
+Cincinnati	National	23794
+Colorado	National	39019
+Florida	National	15765
+Houston	National	35855
+Los Angeles	National	37248
+Milwaukee	National	34704
+Montreal	National	7935
+New York	National	32818
+Philadelphia	National	22846
+Pittsburgh	National	30806
+San Diego	National	29726
+San Francisco	National	40888

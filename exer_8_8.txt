@@ -1,0 +1,21 @@
+Pitcher	Throws	Left_AVG	Right_AVG	1-15_AVG	46-60_AVG	91-105_AVG
+John Smoltz	Right	252	227	293	216	260
+Alan Ashby	Right	271	250	266	279	284
+Alex Fernandez	Right	284	203	283	212	208
+Andy Pettite	Right	295	266	255	287	302
+Bartolo Colon	Right	267	248	248	282	219
+Chuck Finley	Left	236	249	226	294	254
+Charles Nagy	Right	291	291	294	298	272
+David Cone	Right	237	219	212	260	273
+Doug Drabek	Left	282	292	260	261	254
+Darryl Kile	Right	284	251	299	296	267
+Greg Maddux	Right	244	254	284	245	216
+Kevin Brown	Right	249	216	259	264	221
+Randy Johnson	Left	178	213	216	221	258
+Curt Schilling	Right	244	220	250	210	232
+Tom Glavine	Left	250	251	283	256	224
+Terry Mulholland	Left	273	270	253	269	266
+Pedro Martinez	Right	210	193	171	204	221
+Todd Stottlemyre	Right	279	216	259	242	300
+Wilson Alvarez	Right	258	238	291	244	224
+Mike Mussina	Left	244	251	257	246	238

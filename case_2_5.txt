@@ -1,0 +1,31 @@
+LEAGUE	MANAGER	ATTEMPTS	SUCCESS RATE	FAVORITE INNING
+American	Fregosi	45	75.6	1
+American	Garner	58	79.3	9
+American	Hargrove	36	80.6	8
+American	Howe	40	77.5	6
+American	Kelly	37	75.7	3
+American	C. Manual	59	84.7	1
+American	J. Manuel	75	86.7	7
+American	Muser	72	87.5	7
+American	Oates	66	83.3	8
+American	Pinella	73	87.7	5
+American	Rothsfield	73	79.5	7
+American	Scioscia	63	84.1	7
+American	Torre	22	81.8	3
+American	Williams	49	89.8	7
+National	Alou	103	83.5	3
+National	Baker	86	90.7	3
+National	Baylor	115	84.3	3
+National	Bell	100	83	4
+National	Bochy	52	76.9	2
+National	Boles	61	78.7	3
+National	Cox	109	80.7	2
+National	Dierker	77	79.2	4
+National	Francona	89	84.3	3
+National	Johnson	80	81.3	2
+National	La Russa	107	79.4	2
+National	Lamont	78	76.9	3
+National	Lopes	78	78.2	3
+National	McKeon	82	76.8	3
+National	Showalter	89	75.3	3
+National	Valentine	84	85.7	2
